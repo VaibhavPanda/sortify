@@ -8,7 +8,7 @@
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
-[Check out the website here](https://rounakraj401.github.io/Sortify/)
+[Check out the website here](https://vaibhavPanda.github.io/sortify/)
 
 <img src="img/img1.png"> <br/>
 <img src="img/img2.png"> <br/>
